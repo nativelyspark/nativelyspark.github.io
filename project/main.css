@@ -1,0 +1,15 @@
+.opacity100 img {
+    opacity: 100;
+}
+
+.btmpadding20 {
+    padding-bottom: 20px;
+}
+
+.w-webflow-badge {
+    display: none !important;
+}
+
+.popup {
+    display: none !important;
+}
